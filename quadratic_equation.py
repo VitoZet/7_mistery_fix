@@ -1,6 +1,5 @@
 from math import sqrt
 
-
 def get_roots(a, b, c):
     discriminant = b ** 2 - 4 * a * c
     try:
